@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Contabilista/static/css/main.fe97d2ba.css",
+    "main.css": "/Contabilista/static/css/main.5f6f7622.css",
     "main.js": "/Contabilista/static/js/main.a0e4ca4c.js",
     "static/media/conta-1.webp": "/Contabilista/static/media/conta-1.4120b195b38f3129c4bd.webp",
     "static/media/conta-3.jpg": "/Contabilista/static/media/conta-3.6966d2b33cea353bc8f3.jpg",
@@ -8,11 +8,11 @@
     "static/media/revicons.ttf": "/Contabilista/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Contabilista/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Contabilista/index.html",
-    "main.fe97d2ba.css.map": "/Contabilista/static/css/main.fe97d2ba.css.map",
+    "main.5f6f7622.css.map": "/Contabilista/static/css/main.5f6f7622.css.map",
     "main.a0e4ca4c.js.map": "/Contabilista/static/js/main.a0e4ca4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe97d2ba.css",
+    "static/css/main.5f6f7622.css",
     "static/js/main.a0e4ca4c.js"
   ]
 }
