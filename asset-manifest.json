@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Contabilista/static/css/main.a6dece0c.css",
-    "main.js": "/Contabilista/static/js/main.22488202.js",
+    "main.css": "/Contabilista/static/css/main.fe97d2ba.css",
+    "main.js": "/Contabilista/static/js/main.a0e4ca4c.js",
     "static/media/conta-1.webp": "/Contabilista/static/media/conta-1.4120b195b38f3129c4bd.webp",
     "static/media/conta-3.jpg": "/Contabilista/static/media/conta-3.6966d2b33cea353bc8f3.jpg",
     "static/media/revicons.eot": "/Contabilista/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Contabilista/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Contabilista/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Contabilista/index.html",
-    "main.a6dece0c.css.map": "/Contabilista/static/css/main.a6dece0c.css.map",
-    "main.22488202.js.map": "/Contabilista/static/js/main.22488202.js.map"
+    "main.fe97d2ba.css.map": "/Contabilista/static/css/main.fe97d2ba.css.map",
+    "main.a0e4ca4c.js.map": "/Contabilista/static/js/main.a0e4ca4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6dece0c.css",
-    "static/js/main.22488202.js"
+    "static/css/main.fe97d2ba.css",
+    "static/js/main.a0e4ca4c.js"
   ]
 }
