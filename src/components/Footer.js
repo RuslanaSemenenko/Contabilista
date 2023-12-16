@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import navIcon1 from '../img/instagram.png';
-import navIcon2 from '../img/facebook.png';
-import navIcon3 from '../img/envelope-o.png';
+import navIcon2 from '../img/linkedin2.png';
+import navIcon3 from '../img/github.png';
 
 export const Footer = () => {
   return (
@@ -9,17 +9,17 @@ export const Footer = () => {
       <Container>
         <Row className="align-item-center">
           <Col size={12} sm={6}>
-            <p className="footer-logo">MR</p>
+            <p className="footer-logo">RS</p>
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://instagram.com/marina_rodrigues00?igshid=NTc4MTIwNjQ2YQ==">
+              <a href="">
                 <img src={navIcon1} alt="Icon" />
               </a>
-              <a href="https://www.facebook.com/marina.m.rodrigues.1">
+              <a href="">
                 <img src={navIcon2} alt="Icon" />
               </a>
-              <a href="mailto:marina.1998@live.com.pt">
+              <a href="">
                 <img src={navIcon3} alt="Icon" />
               </a>
             </div>

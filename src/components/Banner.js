@@ -48,7 +48,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <span className="tagLine">A Tua Contabilista!</span>
             <h1>
-              Sou a Marina Matos Rodrigues.
+              Sou a Adriana.
               <span className="wrap">{currentText}</span>
             </h1>
             <p>

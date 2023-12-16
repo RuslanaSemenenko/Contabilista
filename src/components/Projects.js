@@ -41,7 +41,7 @@ export const Projects = () => {
                     >
                       <Tab.Pane eventKey="second">
                         <p className="project-text">
-                          Olá! Meu nome é Marina Matos Rodrigues, sou
+                          Olá! Meu nome é Adriana, sou
                           contabilista com mais de 5 anos de experiência na área
                           de contabilidade e tributação. Exerço minha atividade
                           com grande atenção aos detalhes, buscando auxiliar

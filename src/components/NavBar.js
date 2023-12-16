@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import navIcon1 from '../img/instagram.png';
-import navIcon2 from '../img/facebook.png';
-import navIcon3 from '../img/envelope-o.png';
+import navIcon2 from '../img/linkedin2.png';
+import navIcon3 from '../img/github.png';
 import { HashLink } from 'react-router-hash-link';
 import { BrowserRouter as Router } from 'react-router-dom';
 
@@ -33,7 +33,7 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? 'scrolled' : ''}>
         <Container>
           <Navbar.Brand href="/">
-            <p className="logo">MR</p>
+            <p className="logo">RS</p>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
@@ -75,19 +75,19 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a
-                  href="https://instagram.com/marina_rodrigues00?igshid=NTc4MTIwNjQ2YQ=="
+                  href=""
                   className="social-link"
                 >
                   <img src={navIcon1} alt="icon" />
                 </a>
                 <a
-                  href="https://www.facebook.com/marina.m.rodrigues.1"
+                  href=""
                   className="social-link"
                 >
                   <img src={navIcon2} alt="icon" />
                 </a>
                 <a
-                  href="mailto:marina.1998@live.com.pt"
+                  href=""
                   className="social-link"
                 >
                   <img src={navIcon3} alt="icon" />
