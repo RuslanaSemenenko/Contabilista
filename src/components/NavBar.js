@@ -33,7 +33,7 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? 'scrolled' : ''}>
         <Container>
           <Navbar.Brand href="/">
-            <p className="logo">RS</p>
+            <p className="logo">AS</p>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
@@ -75,19 +75,19 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a
-                  href=""
+                  href="https://www.instagram.com/_katotochkaaa_/?igshid=NTc4MTIwNjQ2YQ%3D%3D"
                   className="social-link"
                 >
                   <img src={navIcon1} alt="icon" />
                 </a>
                 <a
-                  href=""
+                  href="https://www.linkedin.com/in/ruslana-semenenko/"
                   className="social-link"
                 >
                   <img src={navIcon2} alt="icon" />
                 </a>
                 <a
-                  href=""
+                  href="https://github.com/RuslanaSemenenko"
                   className="social-link"
                 >
                   <img src={navIcon3} alt="icon" />
